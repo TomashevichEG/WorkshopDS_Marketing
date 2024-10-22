@@ -1,2 +1,2 @@
-# WorkshopDS2_Marketing
+# WorkshopDS_Marketing
 masterskaya2 yandex practicum
